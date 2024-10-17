@@ -1,0 +1,7 @@
+node_modules/
+dist/*.html
+dist/*.js
+*.map
+.DS_Store
+Thumbs.db
+.env
